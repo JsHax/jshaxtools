@@ -1,3 +1,13 @@
+
+/* Credits:
+
+https://stackoverflow.com/questions/3972038/stop-execution-of-javascript-function-client-side-or-tweak-it/10468821#10468821
+https://stackoverflow.com/questions/19985362/can-i-have-access-to-anonymous-function-variables-in-a-userscript
+https://stackoverflow.com/questions/11200509/how-to-alter-this-javascript-with-greasemonkey/11201555#11201555
+
+*/
+
+
 /*--- checkForBadJavascripts()
     This is a utility function, meant to be used inside a Greasemonkey script that
     has the "@run-at document-start" directive set.
